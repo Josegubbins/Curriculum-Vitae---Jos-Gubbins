@@ -13,4 +13,4 @@ Luego se indicó la tipografía con font-family.
 
 Se creo una lista con las experiencias universitarias utilizando ("<li>")
 
-[Ir al sitio web](https://josegubbins.github.io/curriculum-vitae-jose-gubbins/)  
+[Ir al sitio web](https://josegubbins.github.io/Tarea-03-CV/)  
